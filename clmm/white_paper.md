@@ -2,8 +2,6 @@
 
 ## xy=k
 
-关于这个 V1 和 V2 版本的核心公式，相信大家已经很熟悉了，（不了解的小伙伴可以看这篇[Uniswap-V1-Like 用 solidity 仿写一个 uniV1](../../../basic/13-decentralized-exchange/uniswap-v1-like/README.md)）。
-
 虽然它是很经典的 AMM 公式，但存在一个很大问题，就是资金利用率不高。
 
 ### v2 的价格区间
